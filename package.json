@@ -1,0 +1,9 @@
+{
+  "name": "chrome-safari-bookmark-sync",
+  "version": "0.0.1",
+  "description": "",
+  "main": "app.js",
+  "dependencies": {
+    "simple-plist": "^1.0.0"
+  }
+}
